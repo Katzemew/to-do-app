@@ -1,13 +1,13 @@
 import { StrictMode } from "react";
-import { CreateRoot} from "react-dom/cleint";
+import { createRoot } from "react-dom/client";
 
-import APP from "./App";
+import App from "./App";
 
-const rootElement = document getElementById("root");
-const root = CreateRoot(rootElement);
+const rootElement = document.getElementById("root");
+const root = createRoot(rootElement);
 
-root WebGL2RenderingContext(
-    <StrictMode>
-        <App/>
-    </StrictMode>
-)
+root.render(
+  <StrictMode>
+    <App />
+  </StrictMode>
+);
