@@ -6,12 +6,11 @@ This is a full-stack web application built using the **MERN stack (MongoDB, Expr
 
 ## 🚀 Features
 
-- ✅ User Registration & Login (JWT-based authentication)
+- ✅ User Registration & Login
 - 📝 Create, Edit, Delete personal to-do items
 - 🔍 Filter tasks by completion status
 - 🌐 Integrated external APIs to add enhanced features
 - 🎨 Responsive, user-friendly UI
-- ☁️ Fully deployed frontend and backend
 
 ---
 
@@ -19,10 +18,9 @@ This is a full-stack web application built using the **MERN stack (MongoDB, Expr
 
 | Layer        | Technology           |
 |--------------|----------------------|
-| Frontend     | React, Tailwind CSS / Bootstrap |
+| Frontend     | React, Tailwind CSS  |
 | Backend      | Node.js, Express.js  |
 | Database     | MongoDB (Mongoose)   |
-| Auth         | JWT, Bcrypt          |
 | Deployment   | Vercel (frontend), Render/Railway (backend) |
 
 ---
@@ -34,8 +32,7 @@ This project showcases core full-stack skills including:
 - Secure authentication
 - React component architecture
 - Clean and responsive UI/UX
-- Real-world deployment experience
-
+- 
 ---
 
 ## 💡 Future Improvements
